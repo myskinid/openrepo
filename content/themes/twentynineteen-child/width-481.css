@@ -1,0 +1,189 @@
+@media(max-width:481px) {
+    #main-logo {
+        transform: translate(-15px, -5px) scale(.85);
+    }
+    .elementor-heading-title {
+        font-family: Lato !important;
+        font-size: 24px !important;
+        letter-spacing: 1px
+    }
+    .product-list .add_to_cart_button {
+        font-size: 14px !important;
+        line-height: 20px !important
+    }
+    .product-list ul li a img {
+        height: 150px !important;
+        width: 160px !important
+    }
+    .product-list .woocommerce-LoopProduct-link {
+        min-height: 254px !important
+    }
+    .product-list .onsale {
+        font-size: 12px !important
+    }
+    .cart-basket {
+        width: 50% !important
+    }
+    .product-list .woocommerce-loop-product__title {
+        min-height: 32px !important
+    }
+    .product-list .add_to_cart_button {
+        font-size: 14px !important;
+        line-height: 20px !important
+    }
+    .product-list ul li a img {
+        height: 150px !important;
+        width: 160px !important
+    }
+    .product-list .woocommerce-LoopProduct-link {
+        min-height: 254px !important
+    }
+    .product-list .onsale {
+        font-size: 12px !important
+    }
+    .cart-basket {
+        width: 50% !important
+    }
+    .product-list .woocommerce-loop-product__title {
+        min-height: 32px !important
+    }
+    .checkout-payment #order_review_heading {
+        display: none
+    }
+    .checkout-payment .woocommerce-order {
+        padding: 0 0 !important
+    }
+    .checkout-payment .wc-bacs-bank-details,
+    .checkout-payment .woocommerce-order .woocommerce-thankyou-order-received,
+    .checkout-payment .woocommerce-thankyou-order-details {
+        font-size: 16px;
+        line-height: 22px;
+        padding: 25px;
+        list-style-type: none
+    }
+    
+    .woocommerce-page form .show-password-input {
+        position: absolute;
+        right: .7em;
+        top: .7em;
+        cursor: pointer
+    }
+    ul.hfe-nav-menu {
+        background: var(--color-green) !important
+    }
+    .hfe-nav-menu>li.menu-item>a.hfe-menu-item {
+        background: 0 0 !important;
+        color: #fff !important;
+        height: 100%;
+        letter-spacing: .07rem
+    }
+    .hfe-nav-menu>li.menu-item {
+        margin-bottom: 0 !important;
+        min-height: 70px;
+        display: block;
+        align-items: center;
+        width: 100%;
+        position: relative
+    }
+    .hfe-nav-menu>li.menu-item:first-child {
+        border-top: 1px solid rgba(255, 255, 255, .4)
+    }
+    nav.hfe-dropdown li.menu-item:not(:last-child) {
+        border-bottom-color: rgba(255, 255, 255, .4) !important
+    }
+    .menu-item a.hfe-menu-item {
+        font-family: Lato !important;
+        font-size: 16px !important;
+        -webkit-transform: unset !important;
+        -ms-transform: unset !important;
+        transform: unset !important;
+        color: var(--color-green) !important;
+        text-transform: uppercase;
+        border-bottom: 1px solid rgba(255, 255, 255, .4)
+    }
+    .woocommerce-MyAccount-content {
+        padding: 0 !important
+    }
+    .avoid-steps,
+    .doctor-info,
+    .ingredient-box,
+    .pateint-message,
+    .product-box,
+    .recommended-routine {
+        padding: 20px !important
+    }
+    .avoid-steps ul {
+        padding: 0 !important
+    }
+    .pateint-message {
+        margin-bottom: 60px
+    }
+    .founder-member .elementor-widget-wrap {
+        padding: 30px 10px !important;
+        background-color: #fff
+    }
+    .founder-member .elementor-image-box-description {
+        margin-bottom: 20px
+    }
+    .founder-member .elementor-image-box-wrapper .elementor-image-box-img {
+        float: left !important
+    }
+    .founder-member .elementor-widget-image-box .elementor-image-box-content {
+        text-align: initial !important
+    }
+    .beli-produk .products>li.entry.product.type-product {
+        border-width: 0 0 1px !important;
+        border-bottom-width: 1px;
+        border-bottom: 1px solid #ccc !important;
+        border-radius: 0;
+        padding-bottom: 55px !important
+    }
+    .beli-produk .products>li.entry.product.type-product,
+    .beli-produk .products>li.entry.product.type-product .description,
+    .beli-produk .products>li.entry.product.type-product .description p,
+    .beli-produk .products>li.entry.product.type-product h2.woocommerce-loop-product__title {
+        font-family: Lato !important;
+        min-height: auto
+    }
+    .beli-produk .products {
+        grid-template-columns: repeat(1, 1fr) !important
+    }
+    .beli-produk li.product .onsale {
+        padding: 12px 24px !important;
+        display: none;
+        border-radius: 0 0 12px;
+        font-size: 24px;
+        background: var(--color-green)
+    }
+    .beli-produk li.product ins,
+    .beli-produk li.product mark {
+        background: 0 0
+    }
+    .beli-produk .products>li.entry.product.type-product::after {
+        content: "";
+        width: 100%;
+        display: block;
+        height: 1px;
+        background: #bbb;
+        position: absolute;
+        bottom: -1px;
+        left: 0
+    }
+    .beli-produk .products>li.product .price {
+        font-size: 24px !important;
+        text-align: left
+    }
+    .beli-produk .products>li.product .price del {
+        opacity: .5;
+        display: inline-block;
+        transform: translate(0, 0) scale(.8);
+        color: #000
+    }
+    .beli-produk .products>li.product .button {
+        text-transform: uppercase;
+        letter-spacing: .09rem
+    }
+    ul.products li.product img {
+        width: 100%
+    }
+}

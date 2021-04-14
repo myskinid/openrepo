@@ -1,0 +1,17 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+
+/*
+Theme Name: twentynineteen Child
+Template: twentynineteen
+*/
+
+@import url('../twentynineteen/style-min.css');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;1,100;1,300;1,400;1,700&display=swap');
+@import url("./root-minify.css?v.1.1");
+@import url("./width-481-minify.css?v.1.0.11");

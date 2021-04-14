@@ -130,8 +130,8 @@ You should now be up and running, but you may also want to :
 
 = 2.0.1 =
 Release Date: February 11th, 2021
-* Fix : Activation issue
-* Fix : Sitemap index "Invalid content" issue
+* Fix : Activation issue.
+* Fix : Sitemap index "Invalid content" issue.
 * Fix : Exclude setting not working.
 
 = 2.0.0 =
