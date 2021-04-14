@@ -1,0 +1,12 @@
+drwxr-xr-x    3 n14580dl   n14580dl         4096 Jan 20 06:10 .
+drwxr-xr-x   27 n14580dl   n14580dl         8192 Jan 20 06:10 ..
+-rw-r--r--    1 n14580dl   n14580dl        25232 Jan 20 06:10 abstract-wc-legacy-order.php
+-rw-r--r--    1 n14580dl   n14580dl         1910 Jan 20 06:10 abstract-wc-legacy-payment-token.php
+-rw-r--r--    1 n14580dl   n14580dl        21860 Jan 20 06:10 abstract-wc-legacy-product.php
+drwxr-xr-x    5 n14580dl   n14580dl          189 Jan 20 06:10 api
+-rw-r--r--    1 n14580dl   n14580dl         8522 Jan 20 06:10 class-wc-legacy-api.php
+-rw-r--r--    1 n14580dl   n14580dl        12657 Jan 20 06:10 class-wc-legacy-cart.php
+-rw-r--r--    1 n14580dl   n14580dl         5017 Jan 20 06:10 class-wc-legacy-coupon.php
+-rw-r--r--    1 n14580dl   n14580dl         7091 Jan 20 06:10 class-wc-legacy-customer.php
+-rw-r--r--    1 n14580dl   n14580dl         1607 Jan 20 06:10 class-wc-legacy-shipping-zone.php
+-rw-r--r--    1 n14580dl   n14580dl         2568 Jan 20 06:10 class-wc-legacy-webhook.php

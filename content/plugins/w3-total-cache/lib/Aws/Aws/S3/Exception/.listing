@@ -1,0 +1,6 @@
+drwxr-xr-x    2 n14580dl   n14580dl          147 Feb 10 07:04 .
+drwxr-xr-x    4 n14580dl   n14580dl         4096 Feb 10 07:04 ..
+-rw-r--r--    1 n14580dl   n14580dl         1873 Feb 10 07:04 DeleteMultipleObjectsException.php
+-rw-r--r--    1 n14580dl   n14580dl           91 Feb 10 07:04 PermanentRedirectException.php
+-rw-r--r--    1 n14580dl   n14580dl          193 Feb 10 07:04 S3Exception.php
+-rw-r--r--    1 n14580dl   n14580dl         2664 Feb 10 07:04 S3MultipartUploadException.php

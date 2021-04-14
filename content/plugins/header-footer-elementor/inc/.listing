@@ -1,0 +1,11 @@
+drwxr-xr-x    7 n14580dl   n14580dl          229 Feb  2 06:33 .
+drwxr-xr-x    7 n14580dl   n14580dl          128 Feb  2 06:33 ..
+-rw-r--r--    1 n14580dl   n14580dl        14407 Feb  2 06:33 class-header-footer-elementor.php
+-rw-r--r--    1 n14580dl   n14580dl         2810 Feb  2 06:33 class-hfe-elementor-canvas-compat.php
+-rw-r--r--    1 n14580dl   n14580dl         3996 Feb  2 06:33 class-hfe-update.php
+drwxr-xr-x    2 n14580dl   n14580dl           46 Feb  2 06:33 compatibility
+-rw-r--r--    1 n14580dl   n14580dl         3622 Feb  2 06:33 hfe-functions.php
+drwxr-xr-x    2 n14580dl   n14580dl           67 Feb  2 06:33 js
+drwxr-xr-x    4 n14580dl   n14580dl           40 Feb  2 06:33 lib
+drwxr-xr-x    2 n14580dl   n14580dl           26 Feb  2 06:33 widgets-css
+drwxr-xr-x    3 n14580dl   n14580dl           53 Feb  2 06:33 widgets-manager

@@ -1,0 +1,5 @@
+drwxr-xr-x    2 n14580dl   n14580dl           95 Jan 20 05:57 .
+drwxr-xr-x    3 n14580dl   n14580dl          106 Jan 20 05:57 ..
+-rw-r--r--    1 n14580dl   n14580dl         1623 Jan 19 09:18 JsonAwareParametersTest.php
+-rw-r--r--    1 n14580dl   n14580dl         2430 Jan 19 09:18 JsonAwareTestTrait.php
+-rw-r--r--    1 n14580dl   n14580dl         2079 Jan 19 09:18 JsonNodeTest.php

@@ -1,0 +1,7 @@
+drwxr-xr-x    2 n14580dl   n14580dl           97 Jan 20 05:57 .
+drwxr-xr-x    6 n14580dl   n14580dl          107 Jan 20 05:57 ..
+-rw-r--r--    1 n14580dl   n14580dl         1065 Jan 19 09:18 LICENSE
+-rw-r--r--    1 n14580dl   n14580dl         6678 Jan 19 09:18 Php72.php
+-rw-r--r--    1 n14580dl   n14580dl          873 Jan 19 09:18 README.md
+-rw-r--r--    1 n14580dl   n14580dl         1821 Jan 19 09:18 bootstrap.php
+-rw-r--r--    1 n14580dl   n14580dl          949 Jan 19 09:18 composer.json

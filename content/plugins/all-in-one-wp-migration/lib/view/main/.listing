@@ -1,0 +1,16 @@
+drwxr-xr-x    2 n14580dl   n14580dl         4096 Feb 22 14:02 .
+drwxr-xr-x    9 n14580dl   n14580dl          104 Feb 22 14:02 ..
+-rw-r--r--    1 n14580dl   n14580dl         5040 Feb 22 14:02 admin-head.php
+-rw-r--r--    1 n14580dl   n14580dl         2300 Feb 22 14:02 backups-htaccess-notice.php
+-rw-r--r--    1 n14580dl   n14580dl         2302 Feb 22 14:02 backups-index-html-notice.php
+-rw-r--r--    1 n14580dl   n14580dl         2301 Feb 22 14:02 backups-index-php-notice.php
+-rw-r--r--    1 n14580dl   n14580dl         2297 Feb 22 14:02 backups-path-notice.php
+-rw-r--r--    1 n14580dl   n14580dl         2301 Feb 22 14:02 backups-webconfig-notice.php
+-rw-r--r--    1 n14580dl   n14580dl         2033 Feb 22 14:02 get-support.php
+-rw-r--r--    1 n14580dl   n14580dl         2276 Feb 22 14:02 missing-role-capability-notice.php
+-rw-r--r--    1 n14580dl   n14580dl         2344 Feb 22 14:02 multisite-notice.php
+-rw-r--r--    1 n14580dl   n14580dl         2302 Feb 22 14:02 storage-index-html-notice.php
+-rw-r--r--    1 n14580dl   n14580dl         2301 Feb 22 14:02 storage-index-php-notice.php
+-rw-r--r--    1 n14580dl   n14580dl         2297 Feb 22 14:02 storage-path-notice.php
+-rw-r--r--    1 n14580dl   n14580dl         2082 Feb 22 14:02 translate.php
+-rw-r--r--    1 n14580dl   n14580dl         2302 Feb 22 14:02 wordpress-htaccess-notice.php

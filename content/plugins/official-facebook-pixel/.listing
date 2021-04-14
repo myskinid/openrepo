@@ -1,0 +1,17 @@
+drwxr-xr-x    8 n14580dl   n14580dl          289 Jan 20 05:57 .
+drwxr-xr-x   41 n14580dl   n14580dl         4096 Mar  5 14:31 ..
+-rw-r--r--    1 n14580dl   n14580dl          244 Jan 19 09:18 CODE_OF_CONDUCT.md
+-rw-r--r--    1 n14580dl   n14580dl         2496 Jan 19 09:18 CONTRIBUTING.md
+-rw-r--r--    1 n14580dl   n14580dl        18091 Jan 19 09:18 LICENSE
+-rw-r--r--    1 n14580dl   n14580dl         2777 Jan 19 09:18 changelog.txt
+-rw-r--r--    1 n14580dl   n14580dl          632 Jan 19 09:18 composer.json
+-rw-r--r--    1 n14580dl   n14580dl       110768 Jan 19 09:18 composer.lock
+drwxr-xr-x    2 n14580dl   n14580dl         4096 Jan 20 05:56 core
+drwxr-xr-x    2 n14580dl   n14580dl           23 Jan 20 05:56 css
+-rw-r--r--    1 n14580dl   n14580dl         3042 Jan 19 09:18 facebook-for-wordpress.php
+drwxr-xr-x    2 n14580dl   n14580dl         4096 Jan 20 05:56 integration
+drwxr-xr-x    2 n14580dl   n14580dl           29 Jan 20 05:56 js
+drwxr-xr-x    2 n14580dl   n14580dl         4096 Jan 20 05:57 languages
+-rw-r--r--    1 n14580dl   n14580dl         5262 Jan 19 09:18 readme.txt
+-rw-r--r--    1 n14580dl   n14580dl          935 Jan 19 09:18 uninstall.php
+drwxr-xr-x   10 n14580dl   n14580dl          154 Jan 20 05:57 vendor

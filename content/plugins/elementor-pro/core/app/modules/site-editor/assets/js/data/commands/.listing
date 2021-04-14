@@ -1,0 +1,7 @@
+drwxr-xr-x    2 n14580dl   n14580dl          142 Feb  2 06:33 .
+drwxr-xr-x    3 n14580dl   n14580dl           42 Feb  2 06:33 ..
+-rw-r--r--    1 n14580dl   n14580dl          233 Feb  2 06:33 conditions-config.js
+-rw-r--r--    1 n14580dl   n14580dl          240 Feb  2 06:33 index.js
+-rw-r--r--    1 n14580dl   n14580dl          284 Feb  2 06:33 templates-conditions-conflicts.js
+-rw-r--r--    1 n14580dl   n14580dl          245 Feb  2 06:33 templates-conditions.js
+-rw-r--r--    1 n14580dl   n14580dl          203 Feb  2 06:33 templates.js

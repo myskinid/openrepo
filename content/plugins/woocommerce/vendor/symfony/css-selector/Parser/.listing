@@ -1,0 +1,10 @@
+drwxr-xr-x    5 n14580dl   n14580dl          157 Jan 20 06:10 .
+drwxr-xr-x    7 n14580dl   n14580dl          122 Jan 20 06:10 ..
+drwxr-xr-x    2 n14580dl   n14580dl          191 Jan 20 06:10 Handler
+-rw-r--r--    1 n14580dl   n14580dl        12627 Jan 20 06:10 Parser.php
+-rw-r--r--    1 n14580dl   n14580dl          831 Jan 20 06:10 ParserInterface.php
+-rw-r--r--    1 n14580dl   n14580dl         2323 Jan 20 06:10 Reader.php
+drwxr-xr-x    2 n14580dl   n14580dl          105 Jan 20 06:10 Shortcut
+-rw-r--r--    1 n14580dl   n14580dl         3007 Jan 20 06:10 Token.php
+-rw-r--r--    1 n14580dl   n14580dl         3655 Jan 20 06:10 TokenStream.php
+drwxr-xr-x    2 n14580dl   n14580dl           85 Jan 20 06:10 Tokenizer

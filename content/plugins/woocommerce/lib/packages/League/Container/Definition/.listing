@@ -1,0 +1,6 @@
+drwxr-xr-x    2 n14580dl   n14580dl          130 Jan 20 06:10 .
+drwxr-xr-x    7 n14580dl   n14580dl          215 Jan 20 06:10 ..
+-rw-r--r--    1 n14580dl   n14580dl         5507 Jan 20 06:10 Definition.php
+-rw-r--r--    1 n14580dl   n14580dl         2981 Jan 20 06:10 DefinitionAggregate.php
+-rw-r--r--    1 n14580dl   n14580dl         1601 Jan 20 06:10 DefinitionAggregateInterface.php
+-rw-r--r--    1 n14580dl   n14580dl         2549 Jan 20 06:10 DefinitionInterface.php

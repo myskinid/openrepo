@@ -1,0 +1,7 @@
+drwxr-xr-x    2 n14580dl   n14580dl          138 Feb 10 07:04 .
+drwxr-xr-x    4 n14580dl   n14580dl          128 Feb 10 07:04 ..
+-rw-r--r--    1 n14580dl   n14580dl         2429 Feb 10 07:04 GetServicePropertiesResult.php
+-rw-r--r--    1 n14580dl   n14580dl         5382 Feb 10 07:04 Logging.php
+-rw-r--r--    1 n14580dl   n14580dl         4840 Feb 10 07:04 Metrics.php
+-rw-r--r--    1 n14580dl   n14580dl         3473 Feb 10 07:04 RetentionPolicy.php
+-rw-r--r--    1 n14580dl   n14580dl         3845 Feb 10 07:04 ServiceProperties.php

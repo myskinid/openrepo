@@ -1,0 +1,8 @@
+drwxr-xr-x    2 n14580dl   n14580dl          181 Feb  2 06:33 .
+drwxr-xr-x    4 n14580dl   n14580dl           62 Feb  2 06:33 ..
+-rw-r--r--    1 n14580dl   n14580dl          470 Feb  2 06:33 base-endpoint.php
+-rw-r--r--    1 n14580dl   n14580dl          540 Feb  2 06:33 conditions-config.php
+-rw-r--r--    1 n14580dl   n14580dl          581 Feb  2 06:33 template-types.php
+-rw-r--r--    1 n14580dl   n14580dl          697 Feb  2 06:33 templates-conditions-conflicts.php
+-rw-r--r--    1 n14580dl   n14580dl         1697 Feb  2 06:33 templates-conditions.php
+-rw-r--r--    1 n14580dl   n14580dl         6373 Feb  2 06:33 templates.php

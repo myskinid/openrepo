@@ -1,0 +1,5 @@
+drwxr-xr-x    2 n14580dl   n14580dl           84 Jan 20 05:57 .
+drwxr-xr-x    7 n14580dl   n14580dl          274 Jan 20 05:57 ..
+-rw-r--r--    1 n14580dl   n14580dl         4217 Jan 19 09:18 AbstractEnum.php
+-rw-r--r--    1 n14580dl   n14580dl         1544 Jan 19 09:18 EmptyEnum.php
+-rw-r--r--    1 n14580dl   n14580dl         2251 Jan 19 09:18 EnumInstanceInterface.php

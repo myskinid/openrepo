@@ -1,0 +1,6 @@
+drwxr-xr-x    3 n14580dl   n14580dl          110 Oct 19 06:19 .
+drwxr-xr-x    3 n14580dl   n14580dl           19 Oct 19 06:19 ..
+-rw-r--r--    1 n14580dl   n14580dl         4652 Oct 19 06:19 class-wccg-admin.php
+-rw-r--r--    1 n14580dl   n14580dl         3853 Oct 19 06:19 class-wccg-generator.php
+drwxr-xr-x    2 n14580dl   n14580dl          166 Oct 19 06:19 views
+-rw-r--r--    1 n14580dl   n14580dl         7704 Oct 19 06:19 wccg-core-functions.php

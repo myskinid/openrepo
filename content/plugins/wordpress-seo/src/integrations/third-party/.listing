@@ -1,0 +1,14 @@
+drwxr-xr-x    2 n14580dl   n14580dl          308 Mar  4 14:25 .
+drwxr-xr-x    8 n14580dl   n14580dl         4096 Mar  4 14:25 ..
+-rw-r--r--    1 n14580dl   n14580dl         1491 Mar  4 14:25 amp.php
+-rw-r--r--    1 n14580dl   n14580dl         1449 Mar  4 14:25 bbpress.php
+-rw-r--r--    1 n14580dl   n14580dl         1333 Mar  4 14:25 elementor-exclude-post-types.php
+-rw-r--r--    1 n14580dl   n14580dl        22221 Mar  4 14:25 elementor.php
+-rw-r--r--    1 n14580dl   n14580dl          836 Mar  4 14:25 jetpack.php
+-rw-r--r--    1 n14580dl   n14580dl         1319 Mar  4 14:25 the-events-calendar.php
+-rw-r--r--    1 n14580dl   n14580dl          828 Mar  4 14:25 w3-total-cache.php
+-rw-r--r--    1 n14580dl   n14580dl         4640 Mar  4 14:25 web-stories.php
+-rw-r--r--    1 n14580dl   n14580dl         2942 Mar  4 14:25 woocommerce-permalinks.php
+-rw-r--r--    1 n14580dl   n14580dl         7782 Mar  4 14:25 woocommerce.php
+-rw-r--r--    1 n14580dl   n14580dl         3453 Mar  4 14:25 wpml-wpseo-notification.php
+-rw-r--r--    1 n14580dl   n14580dl         1737 Mar  4 14:25 wpml.php

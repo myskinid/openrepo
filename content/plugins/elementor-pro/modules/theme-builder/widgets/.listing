@@ -1,0 +1,12 @@
+drwxr-xr-x    2 n14580dl   n14580dl          251 Feb  2 06:33 .
+drwxr-xr-x   10 n14580dl   n14580dl          165 Feb  2 06:33 ..
+-rw-r--r--    1 n14580dl   n14580dl         3535 Feb  2 06:33 archive-posts.php
+-rw-r--r--    1 n14580dl   n14580dl          710 Feb  2 06:33 archive-title.php
+-rw-r--r--    1 n14580dl   n14580dl          687 Feb  2 06:33 page-title.php
+-rw-r--r--    1 n14580dl   n14580dl         2573 Feb  2 06:33 post-content.php
+-rw-r--r--    1 n14580dl   n14580dl         2186 Feb  2 06:33 post-excerpt.php
+-rw-r--r--    1 n14580dl   n14580dl         1204 Feb  2 06:33 post-featured-image.php
+-rw-r--r--    1 n14580dl   n14580dl          809 Feb  2 06:33 post-title.php
+-rw-r--r--    1 n14580dl   n14580dl         1895 Feb  2 06:33 site-logo.php
+-rw-r--r--    1 n14580dl   n14580dl         1366 Feb  2 06:33 site-title.php
+-rw-r--r--    1 n14580dl   n14580dl         1341 Feb  2 06:33 title-widget-base.php

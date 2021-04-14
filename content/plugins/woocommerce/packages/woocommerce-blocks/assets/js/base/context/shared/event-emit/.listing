@@ -1,0 +1,7 @@
+drwxr-xr-x    3 n14580dl   n14580dl           98 Jan 20 06:10 .
+drwxr-xr-x    4 n14580dl   n14580dl           58 Jan 20 06:10 ..
+-rw-r--r--    1 n14580dl   n14580dl          341 Jan 20 06:10 emitter-callback.js
+-rw-r--r--    1 n14580dl   n14580dl         2926 Jan 20 06:10 emitters.js
+-rw-r--r--    1 n14580dl   n14580dl           91 Jan 20 06:10 index.js
+-rw-r--r--    1 n14580dl   n14580dl         1417 Jan 20 06:10 reducer.js
+drwxr-xr-x    2 n14580dl   n14580dl           25 Jan 20 06:10 test

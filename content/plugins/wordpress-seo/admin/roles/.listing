@@ -1,0 +1,8 @@
+drwxr-xr-x    2 n14580dl   n14580dl          212 Mar  4 14:25 .
+drwxr-xr-x   24 n14580dl   n14580dl         4096 Mar  4 14:25 ..
+-rw-r--r--    1 n14580dl   n14580dl         3463 Mar  4 14:25 class-abstract-role-manager.php
+-rw-r--r--    1 n14580dl   n14580dl          610 Mar  4 14:25 class-register-roles.php
+-rw-r--r--    1 n14580dl   n14580dl          546 Mar  4 14:25 class-role-manager-factory.php
+-rw-r--r--    1 n14580dl   n14580dl         1195 Mar  4 14:25 class-role-manager-vip.php
+-rw-r--r--    1 n14580dl   n14580dl         1455 Mar  4 14:25 class-role-manager-wp.php
+-rw-r--r--    1 n14580dl   n14580dl          769 Mar  4 14:25 class-role-manager.php

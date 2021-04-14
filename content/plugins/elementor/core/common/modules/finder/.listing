@@ -1,0 +1,7 @@
+drwxr-xr-x    3 n14580dl   n14580dl          117 Jan 19 06:48 .
+drwxr-xr-x    5 n14580dl   n14580dl           47 Jan 19 06:48 ..
+-rw-r--r--    1 n14580dl   n14580dl         1179 Dec 29 04:47 base-category.php
+drwxr-xr-x    2 n14580dl   n14580dl          112 Jan 19 06:48 categories
+-rw-r--r--    1 n14580dl   n14580dl         1756 Dec 29 04:47 categories-manager.php
+-rw-r--r--    1 n14580dl   n14580dl         2287 Dec 29 04:47 module.php
+-rw-r--r--    1 n14580dl   n14580dl         1718 Dec 29 04:47 template.php

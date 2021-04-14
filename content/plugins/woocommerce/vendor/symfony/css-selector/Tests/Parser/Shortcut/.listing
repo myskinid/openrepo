@@ -1,0 +1,6 @@
+drwxr-xr-x    2 n14580dl   n14580dl          121 Jan 20 06:10 .
+drwxr-xr-x    4 n14580dl   n14580dl          108 Jan 20 06:10 ..
+-rw-r--r--    1 n14580dl   n14580dl         1432 Jan 20 06:10 ClassParserTest.php
+-rw-r--r--    1 n14580dl   n14580dl         1253 Jan 20 06:10 ElementParserTest.php
+-rw-r--r--    1 n14580dl   n14580dl         1023 Jan 20 06:10 EmptyStringParserTest.php
+-rw-r--r--    1 n14580dl   n14580dl         1394 Jan 20 06:10 HashParserTest.php

@@ -1,0 +1,11 @@
+drwxr-xr-x    2 n14580dl   n14580dl          266 Feb 10 07:04 .
+drwxr-xr-x    7 n14580dl   n14580dl         4096 Feb 10 07:04 ..
+-rw-r--r--    1 n14580dl   n14580dl          806 Feb 10 07:04 BadResponseException.php
+-rw-r--r--    1 n14580dl   n14580dl          161 Feb 10 07:04 ClientException.php
+-rw-r--r--    1 n14580dl   n14580dl          726 Feb 10 07:04 ConnectException.php
+-rw-r--r--    1 n14580dl   n14580dl          293 Feb 10 07:04 GuzzleException.php
+-rw-r--r--    1 n14580dl   n14580dl         5687 Feb 10 07:04 RequestException.php
+-rw-r--r--    1 n14580dl   n14580dl          588 Feb 10 07:04 SeekException.php
+-rw-r--r--    1 n14580dl   n14580dl          161 Feb 10 07:04 ServerException.php
+-rw-r--r--    1 n14580dl   n14580dl           99 Feb 10 07:04 TooManyRedirectsException.php
+-rw-r--r--    1 n14580dl   n14580dl          119 Feb 10 07:04 TransferException.php

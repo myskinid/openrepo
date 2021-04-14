@@ -1,0 +1,8 @@
+drwxr-xr-x    3 n14580dl   n14580dl          152 Mar  4 14:25 .
+drwxr-xr-x   27 n14580dl   n14580dl         4096 Mar  4 14:25 ..
+-rw-r--r--    1 n14580dl   n14580dl          827 Mar  4 14:25 indexing-reasons.php
+-rw-r--r--    1 n14580dl   n14580dl         5051 Mar  4 14:25 migration-status.php
+drwxr-xr-x    2 n14580dl   n14580dl         4096 Mar  4 14:25 migrations
+-rw-r--r--    1 n14580dl   n14580dl         1078 Mar  4 14:25 schema-ids.php
+-rw-r--r--    1 n14580dl   n14580dl         3523 Mar  4 14:25 schema-types.php
+-rw-r--r--    1 n14580dl   n14580dl         7602 Mar  4 14:25 semrush-client.php

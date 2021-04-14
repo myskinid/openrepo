@@ -1,0 +1,4 @@
+drwxr-xr-x    2 n14580dl   n14580dl           64 Jan 20 05:57 .
+drwxr-xr-x    4 n14580dl   n14580dl          162 Jan 20 05:57 ..
+-rw-r--r--    1 n14580dl   n14580dl         2108 Jan 19 09:18 AbstractAdapterTest.php
+-rw-r--r--    1 n14580dl   n14580dl         5306 Jan 19 09:18 CurlAdapterTest.php

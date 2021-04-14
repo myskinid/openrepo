@@ -1,0 +1,6 @@
+drwxr-xr-x    2 n14580dl   n14580dl          129 Feb 10 07:04 .
+drwxr-xr-x    6 n14580dl   n14580dl         4096 Feb 10 07:04 ..
+-rw-r--r--    1 n14580dl   n14580dl         1960 Feb 10 07:04 IAuthScheme.php
+-rw-r--r--    1 n14580dl   n14580dl         5049 Feb 10 07:04 SharedKeyAuthScheme.php
+-rw-r--r--    1 n14580dl   n14580dl         7696 Feb 10 07:04 StorageAuthScheme.php
+-rw-r--r--    1 n14580dl   n14580dl         4135 Feb 10 07:04 TableSharedKeyLiteAuthScheme.php

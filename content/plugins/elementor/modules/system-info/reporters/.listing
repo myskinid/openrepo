@@ -1,0 +1,10 @@
+drwxr-xr-x    2 n14580dl   n14580dl          162 Jan 19 06:48 .
+drwxr-xr-x    5 n14580dl   n14580dl           73 Jan 19 06:48 ..
+-rw-r--r--    1 n14580dl   n14580dl         4050 Dec 29 04:47 base.php
+-rw-r--r--    1 n14580dl   n14580dl         1961 Dec 29 04:47 mu-plugins.php
+-rw-r--r--    1 n14580dl   n14580dl         2228 Dec 29 04:47 network-plugins.php
+-rw-r--r--    1 n14580dl   n14580dl         2209 Dec 29 04:47 plugins.php
+-rw-r--r--    1 n14580dl   n14580dl         7870 Dec 29 04:47 server.php
+-rw-r--r--    1 n14580dl   n14580dl         4723 Dec 29 04:47 theme.php
+-rw-r--r--    1 n14580dl   n14580dl         1885 Dec 29 04:47 user.php
+-rw-r--r--    1 n14580dl   n14580dl         6056 Dec 29 04:47 wordpress.php

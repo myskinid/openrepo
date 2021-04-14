@@ -1,0 +1,47 @@
+/**
+Author: Myskin.id Kitchen Cheff
+*/
+
+.row-value{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    min-height: 20px;
+    padding: 10px 0p;
+}
+.row-value label{
+    font-weight: bold;
+    min-width: 120px;
+}
+.appointment-table tr td{
+    padding: 10px;
+}
+.appointment-table tr:hover td{
+    background-color: #f0f0f0;
+    cursor: pointer;
+    
+}
+
+.appointment-table .column-id{
+    width: 50px;
+    text-align: center;
+}
+.edit-form .member-data > .postbox{
+    background: transparent;
+    border-width: 0px;
+}
+
+.edit-form .member-data{
+    display: flex;
+
+}
+
+.edit-form .member-data > *:nth-child(2){
+    width: 270px;
+}
+.edit-form .member-data > *{
+    flex-grow: 1;
+}
+.row-action{
+    padding: 10px 0;
+}

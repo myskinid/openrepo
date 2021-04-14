@@ -1,0 +1,12 @@
+drwxr-xr-x    7 n14580dl   n14580dl          178 Feb  2 06:33 .
+drwxr-xr-x   41 n14580dl   n14580dl         4096 Mar  5 14:31 ..
+drwxr-xr-x    5 n14580dl   n14580dl           38 Feb  2 06:33 assets
+drwxr-xr-x    2 n14580dl   n14580dl           81 Feb  2 06:33 base
+-rw-r--r--    1 n14580dl   n14580dl        94136 Feb  2 06:33 changelog.txt
+drwxr-xr-x    8 n14580dl   n14580dl          133 Feb  2 06:33 core
+-rw-r--r--    1 n14580dl   n14580dl         5009 Feb  2 06:33 elementor-pro.php
+-rw-r--r--    1 n14580dl   n14580dl          416 Feb  2 06:33 karma.conf.js
+drwxr-xr-x    2 n14580dl   n14580dl           57 Feb  2 06:33 license
+-rw-r--r--    1 n14580dl   n14580dl          919 Feb  2 06:33 license.txt
+drwxr-xr-x   36 n14580dl   n14580dl         4096 Feb  2 06:33 modules
+-rw-r--r--    1 n14580dl   n14580dl         8055 Feb  2 06:33 plugin.php

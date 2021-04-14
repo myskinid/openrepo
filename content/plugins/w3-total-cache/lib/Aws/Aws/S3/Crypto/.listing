@@ -1,0 +1,7 @@
+drwxr-xr-x    2 n14580dl   n14580dl          184 Feb 10 07:04 .
+drwxr-xr-x    4 n14580dl   n14580dl         4096 Feb 10 07:04 ..
+-rw-r--r--    1 n14580dl   n14580dl         2568 Feb 10 07:04 CryptoParamsTrait.php
+-rw-r--r--    1 n14580dl   n14580dl         1624 Feb 10 07:04 HeadersMetadataStrategy.php
+-rw-r--r--    1 n14580dl   n14580dl         2965 Feb 10 07:04 InstructionFileMetadataStrategy.php
+-rw-r--r--    1 n14580dl   n14580dl        12581 Feb 10 07:04 S3EncryptionClient.php
+-rw-r--r--    1 n14580dl   n14580dl         6427 Feb 10 07:04 S3EncryptionMultipartUploader.php

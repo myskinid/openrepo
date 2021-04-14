@@ -1,0 +1,10 @@
+drwxr-xr-x    2 n14580dl   n14580dl          290 Feb 10 07:04 .
+drwxr-xr-x   15 n14580dl   n14580dl         4096 Feb 10 07:04 ..
+-rw-r--r--    1 n14580dl   n14580dl         6240 Feb 10 07:04 AwsException.php
+-rw-r--r--    1 n14580dl   n14580dl         1075 Feb 10 07:04 CouldNotCreateChecksumException.php
+-rw-r--r--    1 n14580dl   n14580dl          234 Feb 10 07:04 CredentialsException.php
+-rw-r--r--    1 n14580dl   n14580dl          783 Feb 10 07:04 EventStreamDataException.php
+-rw-r--r--    1 n14580dl   n14580dl         1888 Feb 10 07:04 MultipartUploadException.php
+-rw-r--r--    1 n14580dl   n14580dl          236 Feb 10 07:04 UnresolvedApiException.php
+-rw-r--r--    1 n14580dl   n14580dl          241 Feb 10 07:04 UnresolvedEndpointException.php
+-rw-r--r--    1 n14580dl   n14580dl          242 Feb 10 07:04 UnresolvedSignatureException.php

@@ -1,0 +1,8 @@
+drwxr-xr-x    3 n14580dl   n14580dl          178 Feb 10 07:04 .
+drwxr-xr-x   15 n14580dl   n14580dl         4096 Feb 10 07:04 ..
+-rw-r--r--    1 n14580dl   n14580dl         1097 Feb 10 07:04 Configuration.php
+-rw-r--r--    1 n14580dl   n14580dl          580 Feb 10 07:04 ConfigurationInterface.php
+-rw-r--r--    1 n14580dl   n14580dl        11120 Feb 10 07:04 ConfigurationProvider.php
+-rw-r--r--    1 n14580dl   n14580dl        13188 Feb 10 07:04 EndpointDiscoveryMiddleware.php
+-rw-r--r--    1 n14580dl   n14580dl         1943 Feb 10 07:04 EndpointList.php
+drwxr-xr-x    2 n14580dl   n14580dl           40 Feb 10 07:04 Exception

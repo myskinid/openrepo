@@ -1,0 +1,15 @@
+drwxr-xr-x    2 n14580dl   n14580dl          240 Nov 30 03:30 .
+drwxr-xr-x    3 n14580dl   n14580dl          144 Nov 30 03:30 ..
+-rw-r--r--    1 n14580dl   n14580dl         1085 Nov 30 03:30 Appliance.php
+-rw-r--r--    1 n14580dl   n14580dl          660 Nov 30 03:30 Cars.php
+-rw-r--r--    1 n14580dl   n14580dl         6375 Nov 30 03:30 Ereader.php
+-rw-r--r--    1 n14580dl   n14580dl         9004 Nov 30 03:30 Gaming.php
+-rw-r--r--    1 n14580dl   n14580dl          657 Nov 30 03:30 Gps.php
+-rw-r--r--    1 n14580dl   n14580dl         3425 Nov 30 03:30 Media.php
+-rw-r--r--    1 n14580dl   n14580dl        48969 Nov 30 03:30 Mobile.php
+-rw-r--r--    1 n14580dl   n14580dl        10041 Nov 30 03:30 Pda.php
+-rw-r--r--    1 n14580dl   n14580dl         1245 Nov 30 03:30 Phone.php
+-rw-r--r--    1 n14580dl   n14580dl         1928 Nov 30 03:30 Printer.php
+-rw-r--r--    1 n14580dl   n14580dl         1114 Nov 30 03:30 Signage.php
+-rw-r--r--    1 n14580dl   n14580dl          844 Nov 30 03:30 Tablet.php
+-rw-r--r--    1 n14580dl   n14580dl        47308 Nov 30 03:30 Television.php

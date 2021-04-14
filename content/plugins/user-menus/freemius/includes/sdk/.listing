@@ -1,0 +1,7 @@
+drwxr-xr-x    3 n14580dl   n14580dl          113 Dec 29 04:41 .
+drwxr-xr-x    8 n14580dl   n14580dl         4096 Dec 29 04:41 ..
+drwxr-xr-x    2 n14580dl   n14580dl          177 Dec 29 04:41 Exceptions
+-rw-r--r--    1 n14580dl   n14580dl         6275 Jan 19 09:19 FreemiusBase.php
+-rw-r--r--    1 n14580dl   n14580dl        20939 Jan 19 09:19 FreemiusWordPress.php
+-rw-r--r--    1 n14580dl   n14580dl        18027 Jan 19 09:19 LICENSE.txt
+-rw-r--r--    1 n14580dl   n14580dl           87 Jan 19 09:19 index.php

@@ -1,0 +1,14 @@
+drwxr-xr-x    4 n14580dl   n14580dl          259 Jan 20 05:57 .
+drwxr-xr-x    7 n14580dl   n14580dl          274 Jan 20 05:57 ..
+drwxr-xr-x    3 n14580dl   n14580dl           96 Jan 20 05:57 Adapter
+-rw-r--r--    1 n14580dl   n14580dl         5155 Jan 19 09:18 Client.php
+drwxr-xr-x    2 n14580dl   n14580dl          216 Jan 20 05:57 Exception
+-rw-r--r--    1 n14580dl   n14580dl         2039 Jan 19 09:18 FileParameter.php
+-rw-r--r--    1 n14580dl   n14580dl         1186 Jan 19 09:18 Headers.php
+-rw-r--r--    1 n14580dl   n14580dl         1752 Jan 19 09:18 Parameters.php
+-rw-r--r--    1 n14580dl   n14580dl         5859 Jan 19 09:18 Request.php
+-rw-r--r--    1 n14580dl   n14580dl         3327 Jan 19 09:18 RequestInterface.php
+-rw-r--r--    1 n14580dl   n14580dl         2671 Jan 19 09:18 Response.php
+-rw-r--r--    1 n14580dl   n14580dl         1874 Jan 19 09:18 ResponseInterface.php
+-rw-r--r--    1 n14580dl   n14580dl         2320 Jan 19 09:18 SimpleRequest.php
+-rw-r--r--    1 n14580dl   n14580dl         1722 Jan 19 09:18 Util.php

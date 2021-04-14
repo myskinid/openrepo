@@ -1,0 +1,8 @@
+drwxr-xr-x    3 n14580dl   n14580dl          133 Jul 17  2020 .
+drwxr-xr-x   41 n14580dl   n14580dl         4096 Mar  5 14:31 ..
+-rw-r--r--    1 n14580dl   n14580dl        49900 Jul  7  2020 class-wp-import.php
+-rw-r--r--    1 n14580dl   n14580dl         1759 Jul  7  2020 compat.php
+drwxr-xr-x    2 n14580dl   n14580dl          138 Jul 17  2020 parsers
+-rw-r--r--    1 n14580dl   n14580dl          581 Jul  7  2020 parsers.php
+-rw-r--r--    1 n14580dl   n14580dl         5484 Jul  7  2020 readme.txt
+-rw-r--r--    1 n14580dl   n14580dl         1986 Jul  7  2020 wordpress-importer.php

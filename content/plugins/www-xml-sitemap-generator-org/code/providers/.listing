@@ -1,0 +1,12 @@
+drwxr-xr-x    2 n14580dl   n14580dl          264 Feb 15 12:27 .
+drwxr-xr-x    4 n14580dl   n14580dl          240 Feb 15 12:27 ..
+-rw-r--r--    1 n14580dl   n14580dl         4096 Feb 15 12:27 ZZZ__postsProvider.php
+-rw-r--r--    1 n14580dl   n14580dl         3577 Feb 15 12:27 _pageProvider.php
+-rw-r--r--    1 n14580dl   n14580dl         2603 Feb 15 12:27 archiveProvider.php
+-rw-r--r--    1 n14580dl   n14580dl         2632 Feb 15 12:27 authorsProvider.php
+-rw-r--r--    1 n14580dl   n14580dl         6898 Feb 15 12:27 coreProvider.php
+-rw-r--r--    1 n14580dl   n14580dl         2421 Feb 15 12:27 indexProvider.php
+-rw-r--r--    1 n14580dl   n14580dl         3214 Feb 15 12:27 latestProvider.php
+-rw-r--r--    1 n14580dl   n14580dl         3122 Feb 15 12:27 newsProvider.php
+-rw-r--r--    1 n14580dl   n14580dl         6747 Feb 15 12:27 postsProvider.php
+-rw-r--r--    1 n14580dl   n14580dl         3824 Feb 15 12:27 termsProvider.php

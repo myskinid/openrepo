@@ -1,0 +1,14 @@
+drwxr-xr-x    6 n14580dl   n14580dl          240 Feb  2 09:07 .
+drwxr-xr-x   41 n14580dl   n14580dl         4096 Mar  5 14:31 ..
+-rw-r--r--    1 n14580dl   n14580dl           32 Feb  2 09:07 .gitignore
+drwxr-xr-x    5 n14580dl   n14580dl           52 Feb  2 09:07 assets
+-rw-r--r--    1 n14580dl   n14580dl         5535 Feb  2 09:07 changelog.txt
+drwxr-xr-x    5 n14580dl   n14580dl          166 Feb  2 09:07 includes
+-rw-r--r--    1 n14580dl   n14580dl           32 Feb  2 09:07 index.php
+drwxr-xr-x    2 n14580dl   n14580dl           34 Feb  2 09:07 languages
+-rw-r--r--    1 n14580dl   n14580dl         7598 Feb  2 09:07 readme.txt
+drwxr-xr-x    2 n14580dl   n14580dl           21 Feb  2 09:07 template
+-rw-r--r--    1 n14580dl   n14580dl          187 Feb  2 09:07 uninstall.php
+-rw-r--r--    1 n14580dl   n14580dl          545 Feb  2 09:07 whatsapp-chat.php
+-rw-r--r--    1 n14580dl   n14580dl         1677 Feb  2 09:07 wp-whatsapp-chat.php
+-rw-r--r--    1 n14580dl   n14580dl          779 Feb  2 09:07 wpml-config.xml

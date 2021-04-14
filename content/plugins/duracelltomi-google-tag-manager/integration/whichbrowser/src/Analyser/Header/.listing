@@ -1,0 +1,11 @@
+drwxr-xr-x    3 n14580dl   n14580dl          184 Nov 30 03:30 .
+drwxr-xr-x    3 n14580dl   n14580dl          101 Nov 30 03:30 ..
+-rw-r--r--    1 n14580dl   n14580dl          422 Nov 30 03:30 Baidu.php
+-rw-r--r--    1 n14580dl   n14580dl         2663 Nov 30 03:30 BrowserId.php
+-rw-r--r--    1 n14580dl   n14580dl         2230 Nov 30 03:30 OperaMini.php
+-rw-r--r--    1 n14580dl   n14580dl         1508 Nov 30 03:30 Puffin.php
+-rw-r--r--    1 n14580dl   n14580dl         6498 Nov 30 03:30 UCBrowserNew.php
+-rw-r--r--    1 n14580dl   n14580dl         1187 Nov 30 03:30 UCBrowserOld.php
+drwxr-xr-x    3 n14580dl   n14580dl          144 Nov 30 03:30 Useragent
+-rw-r--r--    1 n14580dl   n14580dl         1279 Nov 30 03:30 Useragent.php
+-rw-r--r--    1 n14580dl   n14580dl         1092 Nov 30 03:30 Wap.php

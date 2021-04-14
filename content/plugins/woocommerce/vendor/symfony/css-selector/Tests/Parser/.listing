@@ -1,0 +1,7 @@
+drwxr-xr-x    4 n14580dl   n14580dl          108 Jan 20 06:10 .
+drwxr-xr-x    5 n14580dl   n14580dl           81 Jan 20 06:10 ..
+drwxr-xr-x    2 n14580dl   n14580dl          218 Jan 20 06:10 Handler
+-rw-r--r--    1 n14580dl   n14580dl        13033 Jan 20 06:10 ParserTest.php
+-rw-r--r--    1 n14580dl   n14580dl         2955 Jan 20 06:10 ReaderTest.php
+drwxr-xr-x    2 n14580dl   n14580dl          121 Jan 20 06:10 Shortcut
+-rw-r--r--    1 n14580dl   n14580dl         3310 Jan 20 06:10 TokenStreamTest.php

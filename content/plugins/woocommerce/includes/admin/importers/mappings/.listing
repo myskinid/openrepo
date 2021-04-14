@@ -1,0 +1,7 @@
+drwxr-xr-x    2 n14580dl   n14580dl          104 Jan 20 06:10 .
+drwxr-xr-x    4 n14580dl   n14580dl          125 Jan 20 06:10 ..
+-rw-r--r--    1 n14580dl   n14580dl         4323 Jan 20 06:10 default.php
+-rw-r--r--    1 n14580dl   n14580dl          817 Jan 20 06:10 generic.php
+-rw-r--r--    1 n14580dl   n14580dl          344 Jan 20 06:10 mappings.php
+-rw-r--r--    1 n14580dl   n14580dl         2902 Jan 20 06:10 shopify.php
+-rw-r--r--    1 n14580dl   n14580dl          660 Jan 20 06:10 wordpress.php

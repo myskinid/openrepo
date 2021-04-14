@@ -1,0 +1,7 @@
+drwxr-xr-x    6 n14580dl   n14580dl           83 Feb  2 06:33 .
+drwxr-xr-x   36 n14580dl   n14580dl         4096 Feb  2 06:33 ..
+drwxr-xr-x    2 n14580dl   n14580dl            6 Feb  2 06:33 assets
+drwxr-xr-x    2 n14580dl   n14580dl           24 Feb  2 06:33 documents
+-rw-r--r--    1 n14580dl   n14580dl         8118 Feb  2 06:33 module.php
+drwxr-xr-x    2 n14580dl   n14580dl           32 Feb  2 06:33 views
+drwxr-xr-x    2 n14580dl   n14580dl           31 Feb  2 06:33 widgets

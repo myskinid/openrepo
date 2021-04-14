@@ -1,0 +1,12 @@
+drwxr-xr-x    5 n14580dl   n14580dl          199 Mar  4 14:25 .
+drwxr-xr-x    7 n14580dl   n14580dl           77 Mar  4 14:25 ..
+drwxr-xr-x    2 n14580dl   n14580dl           22 Mar  4 14:25 archives
+-rw-r--r--    1 n14580dl   n14580dl         1845 Mar  4 14:25 archives.php
+-rw-r--r--    1 n14580dl   n14580dl          582 Mar  4 14:25 breadcrumbs.php
+-rw-r--r--    1 n14580dl   n14580dl          521 Mar  4 14:25 general.php
+-rw-r--r--    1 n14580dl   n14580dl         1169 Mar  4 14:25 media.php
+drwxr-xr-x    4 n14580dl   n14580dl          295 Mar  4 14:25 paper-content
+-rw-r--r--    1 n14580dl   n14580dl         2146 Mar  4 14:25 post-types.php
+-rw-r--r--    1 n14580dl   n14580dl         1023 Mar  4 14:25 rss.php
+drwxr-xr-x    2 n14580dl   n14580dl           30 Mar  4 14:25 taxonomies
+-rw-r--r--    1 n14580dl   n14580dl         1918 Mar  4 14:25 taxonomies.php

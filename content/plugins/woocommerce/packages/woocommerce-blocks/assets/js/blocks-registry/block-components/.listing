@@ -1,0 +1,7 @@
+drwxr-xr-x    3 n14580dl   n14580dl          154 Jan 20 06:10 .
+drwxr-xr-x    4 n14580dl   n14580dl           69 Jan 20 06:10 ..
+-rw-r--r--    1 n14580dl   n14580dl         1665 Jan 20 06:10 get-registered-block-components.js
+-rw-r--r--    1 n14580dl   n14580dl           95 Jan 20 06:10 index.js
+-rw-r--r--    1 n14580dl   n14580dl         3968 Jan 20 06:10 register-block-component.js
+-rw-r--r--    1 n14580dl   n14580dl           77 Jan 20 06:10 registered-block-components-init.js
+drwxr-xr-x    2 n14580dl   n14580dl           22 Jan 20 06:10 test

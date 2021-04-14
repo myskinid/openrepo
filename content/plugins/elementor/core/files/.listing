@@ -1,0 +1,6 @@
+drwxr-xr-x    4 n14580dl   n14580dl           66 Jan 19 06:48 .
+drwxr-xr-x   20 n14580dl   n14580dl          333 Jan 19 06:48 ..
+drwxr-xr-x    4 n14580dl   n14580dl           80 Jan 19 06:48 assets
+-rw-r--r--    1 n14580dl   n14580dl         5456 Dec 29 04:47 base.php
+drwxr-xr-x    2 n14580dl   n14580dl          112 Jan 19 06:48 css
+-rw-r--r--    1 n14580dl   n14580dl         3676 Dec 29 04:47 manager.php

@@ -1,0 +1,13 @@
+drwxr-xr-x   11 n14580dl   n14580dl          203 Jan 20 06:10 .
+drwxr-xr-x   11 n14580dl   n14580dl          217 Jan 20 06:10 ..
+-rw-r--r--    1 n14580dl   n14580dl          178 Jan 20 06:10 autoload.php
+-rw-r--r--    1 n14580dl   n14580dl          317 Jan 20 06:10 autoload_packages.php
+drwxr-xr-x    4 n14580dl   n14580dl           57 Jan 20 06:10 automattic
+drwxr-xr-x    2 n14580dl   n14580dl            6 Jan 20 06:10 bin
+drwxr-xr-x    3 n14580dl   n14580dl          334 Jan 20 06:10 composer
+drwxr-xr-x    2 n14580dl   n14580dl         4096 Jan 20 06:10 jetpack-autoloader
+drwxr-xr-x    3 n14580dl   n14580dl           20 Jan 20 06:10 maxmind-db
+drwxr-xr-x    3 n14580dl   n14580dl           24 Jan 20 06:10 pelago
+drwxr-xr-x    3 n14580dl   n14580dl           23 Jan 20 06:10 psr
+drwxr-xr-x    3 n14580dl   n14580dl           26 Jan 20 06:10 symfony
+drwxr-xr-x    2 n14580dl   n14580dl            6 Jan 20 06:10 woocommerce

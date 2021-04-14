@@ -1,0 +1,12 @@
+drwxr-xr-x    6 n14580dl   n14580dl          205 Jan 28 04:47 .
+drwxr-xr-x   41 n14580dl   n14580dl         4096 Mar  5 14:31 ..
+drwxr-xr-x    6 n14580dl   n14580dl           71 Jan 28 04:47 assets
+-rw-r--r--    1 n14580dl   n14580dl         9509 Jan 28 04:47 class-easy-google-fonts.php
+-rw-r--r--    1 n14580dl   n14580dl         3875 Jan 28 04:47 easy-google-fonts.php
+drwxr-xr-x    4 n14580dl   n14580dl          296 Jan 28 04:47 includes
+-rw-r--r--    1 n14580dl   n14580dl           30 Jan 28 04:47 index.php
+drwxr-xr-x    2 n14580dl   n14580dl           85 Jan 28 04:47 languages
+-rw-r--r--    1 n14580dl   n14580dl            0 Jan 28 04:47 licence.txt
+-rw-r--r--    1 n14580dl   n14580dl        11090 Jan 28 04:47 readme.txt
+-rw-r--r--    1 n14580dl   n14580dl          623 Jan 28 04:47 uninstall.php
+drwxr-xr-x    4 n14580dl   n14580dl           59 Jan 28 04:47 views

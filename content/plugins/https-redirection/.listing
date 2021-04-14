@@ -1,0 +1,12 @@
+drwxr-xr-x    6 n14580dl   n14580dl          233 Jul 17  2020 .
+drwxr-xr-x   41 n14580dl   n14580dl         4096 Mar  5 14:31 ..
+drwxr-xr-x    2 n14580dl   n14580dl           23 Jul 17  2020 css
+-rw-r--r--    1 n14580dl   n14580dl        10301 Jul  9  2020 https-redirection-settings.php
+-rw-r--r--    1 n14580dl   n14580dl         8912 Jul  9  2020 https-redirection.php
+-rw-r--r--    1 n14580dl   n14580dl         5832 Jul  9  2020 https-rules-helper.php
+-rw-r--r--    1 n14580dl   n14580dl         1219 Jul  9  2020 https-utillity-functions.php
+drwxr-xr-x    2 n14580dl   n14580dl           44 Jul 17  2020 images
+drwxr-xr-x    2 n14580dl   n14580dl           23 Jul 17  2020 js
+drwxr-xr-x    2 n14580dl   n14580dl           74 Jul 17  2020 languages
+-rw-r--r--    1 n14580dl   n14580dl         6561 Jul  9  2020 readme.txt
+-rw-r--r--    1 n14580dl   n14580dl        59290 Jul  9  2020 screenshot-1.png

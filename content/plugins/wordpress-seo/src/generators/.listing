@@ -1,0 +1,9 @@
+drwxr-xr-x    3 n14580dl   n14580dl          224 Mar  4 14:25 .
+drwxr-xr-x   27 n14580dl   n14580dl         4096 Mar  4 14:25 ..
+-rw-r--r--    1 n14580dl   n14580dl        11444 Mar  4 14:25 breadcrumbs-generator.php
+-rw-r--r--    1 n14580dl   n14580dl          356 Mar  4 14:25 generator-interface.php
+-rw-r--r--    1 n14580dl   n14580dl         4675 Mar  4 14:25 open-graph-image-generator.php
+-rw-r--r--    1 n14580dl   n14580dl         5613 Mar  4 14:25 open-graph-locale-generator.php
+drwxr-xr-x    3 n14580dl   n14580dl          251 Mar  4 14:25 schema
+-rw-r--r--    1 n14580dl   n14580dl        10282 Mar  4 14:25 schema-generator.php
+-rw-r--r--    1 n14580dl   n14580dl         2460 Mar  4 14:25 twitter-image-generator.php

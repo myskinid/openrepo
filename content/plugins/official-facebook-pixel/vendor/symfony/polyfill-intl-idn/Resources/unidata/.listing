@@ -1,0 +1,11 @@
+drwxr-xr-x    2 n14580dl   n14580dl          216 Jan 20 05:57 .
+drwxr-xr-x    3 n14580dl   n14580dl           21 Jan 20 05:57 ..
+-rw-r--r--    1 n14580dl   n14580dl         8707 Jan 19 09:18 DisallowedRanges.php
+-rw-r--r--    1 n14580dl   n14580dl       100362 Jan 19 09:18 Regex.php
+-rw-r--r--    1 n14580dl   n14580dl           83 Jan 19 09:18 deviation.php
+-rw-r--r--    1 n14580dl   n14580dl        44492 Jan 19 09:18 disallowed.php
+-rw-r--r--    1 n14580dl   n14580dl         5442 Jan 19 09:18 disallowed_STD3_mapped.php
+-rw-r--r--    1 n14580dl   n14580dl          964 Jan 19 09:18 disallowed_STD3_valid.php
+-rw-r--r--    1 n14580dl   n14580dl         4832 Jan 19 09:18 ignored.php
+-rw-r--r--    1 n14580dl   n14580dl       103243 Jan 19 09:18 mapped.php
+-rw-r--r--    1 n14580dl   n14580dl          853 Jan 19 09:18 virama.php

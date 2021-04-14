@@ -1,0 +1,9 @@
+drwxr-xr-x    2 n14580dl   n14580dl          147 Nov 30 03:30 .
+drwxr-xr-x    6 n14580dl   n14580dl          119 Nov 30 03:30 ..
+-rw-r--r--    1 n14580dl   n14580dl          724 Nov 30 03:30 BrowserType.php
+-rw-r--r--    1 n14580dl   n14580dl          220 Nov 30 03:30 DeviceSubType.php
+-rw-r--r--    1 n14580dl   n14580dl          803 Nov 30 03:30 DeviceType.php
+-rw-r--r--    1 n14580dl   n14580dl          196 Nov 30 03:30 EngineType.php
+-rw-r--r--    1 n14580dl   n14580dl          233 Nov 30 03:30 Feature.php
+-rw-r--r--    1 n14580dl   n14580dl          271 Nov 30 03:30 Flag.php
+-rw-r--r--    1 n14580dl   n14580dl          170 Nov 30 03:30 Id.php

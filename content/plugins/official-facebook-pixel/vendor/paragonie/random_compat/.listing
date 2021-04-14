@@ -1,0 +1,10 @@
+drwxr-xr-x    5 n14580dl   n14580dl          142 Jan 20 05:57 .
+drwxr-xr-x    3 n14580dl   n14580dl           27 Jan 20 05:57 ..
+-rw-r--r--    1 n14580dl   n14580dl         1098 Jan 19 09:18 LICENSE
+-rw-r--r--    1 n14580dl   n14580dl          134 Jan 19 09:18 build-phar.sh
+-rw-r--r--    1 n14580dl   n14580dl          868 Jan 19 09:18 composer.json
+drwxr-xr-x    2 n14580dl   n14580dl           76 Jan 20 05:57 dist
+drwxr-xr-x    2 n14580dl   n14580dl           24 Jan 20 05:57 lib
+drwxr-xr-x    2 n14580dl   n14580dl           28 Jan 20 05:57 other
+-rw-r--r--    1 n14580dl   n14580dl          231 Jan 19 09:18 psalm-autoload.php
+-rw-r--r--    1 n14580dl   n14580dl          596 Jan 19 09:18 psalm.xml

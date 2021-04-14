@@ -1,0 +1,9 @@
+drwxr-xr-x    6 n14580dl   n14580dl          119 Nov 30 03:30 .
+drwxr-xr-x    4 n14580dl   n14580dl           44 Nov 30 03:30 ..
+drwxr-xr-x    3 n14580dl   n14580dl          101 Nov 30 03:30 Analyser
+-rw-r--r--    1 n14580dl   n14580dl          913 Nov 30 03:30 Analyser.php
+-rw-r--r--    1 n14580dl   n14580dl         2852 Nov 30 03:30 Cache.php
+drwxr-xr-x    2 n14580dl   n14580dl          147 Nov 30 03:30 Constants
+drwxr-xr-x    2 n14580dl   n14580dl          204 Nov 30 03:30 Data
+drwxr-xr-x    3 n14580dl   n14580dl          162 Nov 30 03:30 Model
+-rw-r--r--    1 n14580dl   n14580dl         1454 Nov 30 03:30 Parser.php

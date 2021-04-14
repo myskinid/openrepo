@@ -1,0 +1,12 @@
+drwxr-xr-x    2 n14580dl   n14580dl          290 Jan 20 06:10 .
+drwxr-xr-x   23 n14580dl   n14580dl         4096 Jan 20 06:10 ..
+-rw-r--r--    1 n14580dl   n14580dl       119052 Jan 20 06:10 jquery.flot.js
+-rw-r--r--    1 n14580dl   n14580dl        35590 Jan 20 06:10 jquery.flot.min.js
+-rw-r--r--    1 n14580dl   n14580dl        23610 Jan 20 06:10 jquery.flot.pie.js
+-rw-r--r--    1 n14580dl   n14580dl         7931 Jan 20 06:10 jquery.flot.pie.min.js
+-rw-r--r--    1 n14580dl   n14580dl         2504 Jan 20 06:10 jquery.flot.resize.js
+-rw-r--r--    1 n14580dl   n14580dl         1180 Jan 20 06:10 jquery.flot.resize.min.js
+-rw-r--r--    1 n14580dl   n14580dl         6916 Jan 20 06:10 jquery.flot.stack.js
+-rw-r--r--    1 n14580dl   n14580dl         1301 Jan 20 06:10 jquery.flot.stack.min.js
+-rw-r--r--    1 n14580dl   n14580dl        11729 Jan 20 06:10 jquery.flot.time.js
+-rw-r--r--    1 n14580dl   n14580dl         4623 Jan 20 06:10 jquery.flot.time.min.js

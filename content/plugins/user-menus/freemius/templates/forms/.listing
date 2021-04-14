@@ -1,0 +1,14 @@
+drwxr-xr-x    3 n14580dl   n14580dl          335 Dec 29 04:41 .
+drwxr-xr-x    8 n14580dl   n14580dl         4096 Dec 29 04:41 ..
+-rw-r--r--    1 n14580dl   n14580dl        29707 Jan 19 09:19 affiliation.php
+-rw-r--r--    1 n14580dl   n14580dl         7915 Jan 19 09:19 data-debug-mode.php
+drwxr-xr-x    2 n14580dl   n14580dl           80 Dec 29 04:41 deactivation
+-rw-r--r--    1 n14580dl   n14580dl           87 Jan 19 09:19 index.php
+-rw-r--r--    1 n14580dl   n14580dl        34343 Jan 19 09:19 license-activation.php
+-rw-r--r--    1 n14580dl   n14580dl        13031 Jan 19 09:19 optout.php
+-rw-r--r--    1 n14580dl   n14580dl         8331 Jan 19 09:19 premium-versions-upgrade-handler.php
+-rw-r--r--    1 n14580dl   n14580dl         1528 Jan 19 09:19 premium-versions-upgrade-metadata.php
+-rw-r--r--    1 n14580dl   n14580dl         7106 Jan 19 09:19 resend-key.php
+-rw-r--r--    1 n14580dl   n14580dl        11726 Jan 19 09:19 subscription-cancellation.php
+-rw-r--r--    1 n14580dl   n14580dl         5328 Jan 19 09:19 trial-start.php
+-rw-r--r--    1 n14580dl   n14580dl        11991 Jan 19 09:19 user-change.php

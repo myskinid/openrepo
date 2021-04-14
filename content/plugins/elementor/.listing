@@ -1,0 +1,10 @@
+drwxr-xr-x    7 n14580dl   n14580dl          133 Jan 19 06:48 .
+drwxr-xr-x   41 n14580dl   n14580dl         4096 Mar  5 14:31 ..
+drwxr-xr-x    7 n14580dl   n14580dl           66 Jan 19 06:48 assets
+drwxr-xr-x   20 n14580dl   n14580dl          333 Jan 19 06:48 core
+drwxr-xr-x    3 n14580dl   n14580dl           37 Jan 19 06:48 data
+-rw-r--r--    1 n14580dl   n14580dl         3427 Dec 29 04:47 elementor.php
+drwxr-xr-x   13 n14580dl   n14580dl         4096 Jan 19 06:48 includes
+-rw-r--r--    1 n14580dl   n14580dl        35147 Dec 29 04:47 license.txt
+drwxr-xr-x   12 n14580dl   n14580dl          175 Jan 19 06:48 modules
+-rw-r--r--    1 n14580dl   n14580dl       185802 Dec 29 04:47 readme.txt

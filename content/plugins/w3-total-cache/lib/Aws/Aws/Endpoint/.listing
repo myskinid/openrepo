@@ -1,0 +1,7 @@
+drwxr-xr-x    2 n14580dl   n14580dl          157 Feb 10 07:04 .
+drwxr-xr-x   15 n14580dl   n14580dl         4096 Feb 10 07:04 ..
+-rw-r--r--    1 n14580dl   n14580dl         3313 Feb 10 07:04 EndpointProvider.php
+-rw-r--r--    1 n14580dl   n14580dl         5915 Feb 10 07:04 Partition.php
+-rw-r--r--    1 n14580dl   n14580dl         3076 Feb 10 07:04 PartitionEndpointProvider.php
+-rw-r--r--    1 n14580dl   n14580dl         1642 Feb 10 07:04 PartitionInterface.php
+-rw-r--r--    1 n14580dl   n14580dl         1353 Feb 10 07:04 PatternEndpointProvider.php

@@ -1,0 +1,5 @@
+drwxr-xr-x    2 n14580dl   n14580dl          100 Mar  4 14:25 .
+drwxr-xr-x   27 n14580dl   n14580dl         4096 Mar  4 14:25 ..
+-rw-r--r--    1 n14580dl   n14580dl         2607 Mar  4 14:25 disable-core-sitemaps.php
+-rw-r--r--    1 n14580dl   n14580dl          345 Mar  4 14:25 initializer-interface.php
+-rw-r--r--    1 n14580dl   n14580dl         4024 Mar  4 14:25 migration-runner.php

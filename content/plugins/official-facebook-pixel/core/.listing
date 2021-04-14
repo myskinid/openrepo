@@ -1,0 +1,16 @@
+drwxr-xr-x    2 n14580dl   n14580dl         4096 Jan 20 05:56 .
+drwxr-xr-x    8 n14580dl   n14580dl          289 Jan 20 05:57 ..
+-rw-r--r--    1 n14580dl   n14580dl         3027 Jan 19 09:18 AAMFieldsExtractor.php
+-rw-r--r--    1 n14580dl   n14580dl         1259 Jan 19 09:18 AAMSettingsFields.php
+-rw-r--r--    1 n14580dl   n14580dl         1250 Jan 19 09:18 EventIdGenerator.php
+-rw-r--r--    1 n14580dl   n14580dl         6835 Jan 19 09:18 FacebookPixel.php
+-rw-r--r--    1 n14580dl   n14580dl         3289 Jan 19 09:18 FacebookPluginConfig.php
+-rw-r--r--    1 n14580dl   n14580dl         1813 Jan 19 09:18 FacebookPluginUtils.php
+-rw-r--r--    1 n14580dl   n14580dl         2947 Jan 19 09:18 FacebookServerSideEvent.php
+-rw-r--r--    1 n14580dl   n14580dl         9446 Jan 19 09:18 FacebookWordpressOptions.php
+-rw-r--r--    1 n14580dl   n14580dl         2356 Jan 19 09:18 FacebookWordpressPixelInjection.php
+-rw-r--r--    1 n14580dl   n14580dl         7008 Jan 19 09:18 FacebookWordpressSettingsPage.php
+-rw-r--r--    1 n14580dl   n14580dl         1854 Jan 19 09:18 FacebookWordpressSettingsRecorder.php
+-rw-r--r--    1 n14580dl   n14580dl         2545 Jan 19 09:18 PixelRenderer.php
+-rw-r--r--    1 n14580dl   n14580dl         5286 Jan 19 09:18 ServerEventAsyncTask.php
+-rw-r--r--    1 n14580dl   n14580dl         9170 Jan 19 09:18 ServerEventFactory.php

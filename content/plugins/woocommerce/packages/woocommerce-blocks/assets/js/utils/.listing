@@ -1,0 +1,10 @@
+drwxr-xr-x    3 n14580dl   n14580dl          180 Jan 20 06:10 .
+drwxr-xr-x   20 n14580dl   n14580dl          330 Jan 20 06:10 ..
+-rw-r--r--    1 n14580dl   n14580dl         2152 Jan 20 06:10 attributes-query.js
+-rw-r--r--    1 n14580dl   n14580dl         1895 Jan 20 06:10 attributes.js
+-rw-r--r--    1 n14580dl   n14580dl          866 Jan 20 06:10 deprecations.js
+-rw-r--r--    1 n14580dl   n14580dl         2211 Jan 20 06:10 get-query.js
+-rw-r--r--    1 n14580dl   n14580dl         2705 Jan 20 06:10 get-shortcode.js
+-rw-r--r--    1 n14580dl   n14580dl          940 Jan 20 06:10 products.js
+-rw-r--r--    1 n14580dl   n14580dl         1184 Jan 20 06:10 shared-attributes.js
+drwxr-xr-x    2 n14580dl   n14580dl           45 Jan 20 06:10 test

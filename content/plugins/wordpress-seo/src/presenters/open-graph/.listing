@@ -1,0 +1,13 @@
+drwxr-xr-x    2 n14580dl   n14580dl         4096 Mar  4 14:25 .
+drwxr-xr-x    8 n14580dl   n14580dl         4096 Mar  4 14:25 ..
+-rw-r--r--    1 n14580dl   n14580dl         1116 Mar  4 14:25 article-author-presenter.php
+-rw-r--r--    1 n14580dl   n14580dl          609 Mar  4 14:25 article-modified-time-presenter.php
+-rw-r--r--    1 n14580dl   n14580dl          613 Mar  4 14:25 article-published-time-presenter.php
+-rw-r--r--    1 n14580dl   n14580dl         1128 Mar  4 14:25 article-publisher-presenter.php
+-rw-r--r--    1 n14580dl   n14580dl         1039 Mar  4 14:25 description-presenter.php
+-rw-r--r--    1 n14580dl   n14580dl         2093 Mar  4 14:25 image-presenter.php
+-rw-r--r--    1 n14580dl   n14580dl          945 Mar  4 14:25 locale-presenter.php
+-rw-r--r--    1 n14580dl   n14580dl         1006 Mar  4 14:25 site-name-presenter.php
+-rw-r--r--    1 n14580dl   n14580dl         1084 Mar  4 14:25 title-presenter.php
+-rw-r--r--    1 n14580dl   n14580dl          928 Mar  4 14:25 type-presenter.php
+-rw-r--r--    1 n14580dl   n14580dl         1048 Mar  4 14:25 url-presenter.php

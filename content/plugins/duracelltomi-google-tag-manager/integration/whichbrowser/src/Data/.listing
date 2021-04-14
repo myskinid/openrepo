@@ -1,0 +1,11 @@
+drwxr-xr-x    2 n14580dl   n14580dl          204 Nov 30 03:30 .
+drwxr-xr-x    6 n14580dl   n14580dl          119 Nov 30 03:30 ..
+-rw-r--r--    1 n14580dl   n14580dl         3720 Nov 30 03:30 Applications.php
+-rw-r--r--    1 n14580dl   n14580dl          347 Nov 30 03:30 BrowserIds.php
+-rw-r--r--    1 n14580dl   n14580dl          557 Nov 30 03:30 BuildIds.php
+-rw-r--r--    1 n14580dl   n14580dl          640 Nov 30 03:30 CFNetwork.php
+-rw-r--r--    1 n14580dl   n14580dl          759 Nov 30 03:30 Chrome.php
+-rw-r--r--    1 n14580dl   n14580dl          699 Nov 30 03:30 Darwin.php
+-rw-r--r--    1 n14580dl   n14580dl        13960 Nov 30 03:30 DeviceModels.php
+-rw-r--r--    1 n14580dl   n14580dl          330 Nov 30 03:30 DeviceProfiles.php
+-rw-r--r--    1 n14580dl   n14580dl          672 Nov 30 03:30 Manufacturers.php

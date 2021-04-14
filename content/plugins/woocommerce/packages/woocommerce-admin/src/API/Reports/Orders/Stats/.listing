@@ -1,0 +1,6 @@
+drwxr-xr-x    2 n14580dl   n14580dl           87 Jan 20 06:10 .
+drwxr-xr-x    3 n14580dl   n14580dl           79 Jan 20 06:10 ..
+-rw-r--r--    1 n14580dl   n14580dl        20418 Jan 20 06:10 Controller.php
+-rw-r--r--    1 n14580dl   n14580dl        25290 Jan 20 06:10 DataStore.php
+-rw-r--r--    1 n14580dl   n14580dl         1540 Jan 20 06:10 Query.php
+-rw-r--r--    1 n14580dl   n14580dl        21405 Jan 20 06:10 Segmenter.php

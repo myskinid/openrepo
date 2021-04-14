@@ -1,0 +1,12 @@
+drwxr-xr-x    2 n14580dl   n14580dl          253 Feb  2 09:06 .
+drwxr-xr-x    3 n14580dl   n14580dl           42 Feb  2 09:06 ..
+-rw-r--r--    1 n14580dl   n14580dl        14362 Feb  2 09:06 ClassLoader.php
+-rw-r--r--    1 n14580dl   n14580dl         4625 Feb  2 09:06 InstalledVersions.php
+-rw-r--r--    1 n14580dl   n14580dl         1070 Feb  2 09:06 LICENSE
+-rw-r--r--    1 n14580dl   n14580dl         2772 Feb  2 09:06 autoload_classmap.php
+-rw-r--r--    1 n14580dl   n14580dl          149 Feb  2 09:06 autoload_namespaces.php
+-rw-r--r--    1 n14580dl   n14580dl          143 Feb  2 09:06 autoload_psr4.php
+-rw-r--r--    1 n14580dl   n14580dl         1847 Feb  2 09:06 autoload_real.php
+-rw-r--r--    1 n14580dl   n14580dl         3526 Feb  2 09:06 autoload_static.php
+-rw-r--r--    1 n14580dl   n14580dl           70 Feb  2 09:06 installed.json
+-rw-r--r--    1 n14580dl   n14580dl          544 Feb  2 09:06 installed.php

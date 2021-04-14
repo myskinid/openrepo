@@ -1,0 +1,7 @@
+drwxr-xr-x    3 n14580dl   n14580dl           92 Jan 20 06:10 .
+drwxr-xr-x   39 n14580dl   n14580dl         4096 Jan 20 06:10 ..
+-rw-r--r--    1 n14580dl   n14580dl         1872 Jan 20 06:10 chip.js
+-rw-r--r--    1 n14580dl   n14580dl          103 Jan 20 06:10 index.js
+-rw-r--r--    1 n14580dl   n14580dl         2799 Jan 20 06:10 removable-chip.js
+-rw-r--r--    1 n14580dl   n14580dl         1485 Jan 20 06:10 style.scss
+drwxr-xr-x    3 n14580dl   n14580dl           43 Jan 20 06:10 test

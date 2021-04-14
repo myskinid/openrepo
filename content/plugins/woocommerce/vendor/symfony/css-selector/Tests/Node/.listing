@@ -1,0 +1,13 @@
+drwxr-xr-x    2 n14580dl   n14580dl          312 Jan 20 06:10 .
+drwxr-xr-x    5 n14580dl   n14580dl           81 Jan 20 06:10 ..
+-rw-r--r--    1 n14580dl   n14580dl          975 Jan 20 06:10 AbstractNodeTest.php
+-rw-r--r--    1 n14580dl   n14580dl         1469 Jan 20 06:10 AttributeNodeTest.php
+-rw-r--r--    1 n14580dl   n14580dl          872 Jan 20 06:10 ClassNodeTest.php
+-rw-r--r--    1 n14580dl   n14580dl         1251 Jan 20 06:10 CombinedSelectorNodeTest.php
+-rw-r--r--    1 n14580dl   n14580dl          963 Jan 20 06:10 ElementNodeTest.php
+-rw-r--r--    1 n14580dl   n14580dl         1698 Jan 20 06:10 FunctionNodeTest.php
+-rw-r--r--    1 n14580dl   n14580dl          854 Jan 20 06:10 HashNodeTest.php
+-rw-r--r--    1 n14580dl   n14580dl          947 Jan 20 06:10 NegationNodeTest.php
+-rw-r--r--    1 n14580dl   n14580dl          799 Jan 20 06:10 PseudoNodeTest.php
+-rw-r--r--    1 n14580dl   n14580dl          948 Jan 20 06:10 SelectorNodeTest.php
+-rw-r--r--    1 n14580dl   n14580dl         2180 Jan 20 06:10 SpecificityTest.php

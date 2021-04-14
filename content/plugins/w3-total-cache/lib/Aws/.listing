@@ -1,0 +1,8 @@
+drwxr-xr-x    6 n14580dl   n14580dl          105 Feb 10 07:04 .
+drwxr-xr-x   13 n14580dl   n14580dl          193 Feb 10 07:04 ..
+drwxr-xr-x   15 n14580dl   n14580dl         4096 Feb 10 07:04 Aws
+drwxr-xr-x    7 n14580dl   n14580dl         4096 Feb 10 07:04 GuzzleHttp
+drwxr-xr-x    2 n14580dl   n14580dl          273 Feb 10 07:04 JmesPath
+drwxr-xr-x    3 n14580dl   n14580dl           18 Feb 10 07:04 Psr
+-rw-r--r--    1 n14580dl   n14580dl        10129 Feb 10 07:04 README.md
+-rw-r--r--    1 n14580dl   n14580dl       121840 Feb 10 07:04 aws-autoloader.php

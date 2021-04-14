@@ -1,0 +1,17 @@
+drwxr-xr-x    2 n14580dl   n14580dl         4096 Nov 30 03:30 .
+drwxr-xr-x    4 n14580dl   n14580dl         4096 Nov 30 03:30 ..
+-rw-r--r--    1 n14580dl   n14580dl       180939 Nov 30 03:30 models-android.php
+-rw-r--r--    1 n14580dl   n14580dl          368 Nov 30 03:30 models-asha.php
+-rw-r--r--    1 n14580dl   n14580dl          448 Nov 30 03:30 models-bada.php
+-rw-r--r--    1 n14580dl   n14580dl         2756 Nov 30 03:30 models-brew.php
+-rw-r--r--    1 n14580dl   n14580dl         3430 Nov 30 03:30 models-feature.php
+-rw-r--r--    1 n14580dl   n14580dl         1291 Nov 30 03:30 models-firefoxos.php
+-rw-r--r--    1 n14580dl   n14580dl         6526 Nov 30 03:30 models-kddi.php
+-rw-r--r--    1 n14580dl   n14580dl         2081 Nov 30 03:30 models-palmos.php
+-rw-r--r--    1 n14580dl   n14580dl          230 Nov 30 03:30 models-s30plus.php
+-rw-r--r--    1 n14580dl   n14580dl         3385 Nov 30 03:30 models-s40.php
+-rw-r--r--    1 n14580dl   n14580dl         5165 Nov 30 03:30 models-symbian.php
+-rw-r--r--    1 n14580dl   n14580dl         1550 Nov 30 03:30 models-tizen.php
+-rw-r--r--    1 n14580dl   n14580dl         1075 Nov 30 03:30 models-touchwiz.php
+-rw-r--r--    1 n14580dl   n14580dl         8927 Nov 30 03:30 models-wm.php
+-rw-r--r--    1 n14580dl   n14580dl         7995 Nov 30 03:30 models-wp.php

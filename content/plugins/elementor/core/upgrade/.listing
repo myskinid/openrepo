@@ -1,0 +1,7 @@
+drwxr-xr-x    2 n14580dl   n14580dl          131 Jan 19 06:48 .
+drwxr-xr-x   20 n14580dl   n14580dl          333 Jan 19 06:48 ..
+-rw-r--r--    1 n14580dl   n14580dl         4762 Dec 29 04:47 elementor-3-re-migrate-globals.php
+-rw-r--r--    1 n14580dl   n14580dl         1806 Dec 29 04:47 manager.php
+-rw-r--r--    1 n14580dl   n14580dl          491 Dec 29 04:47 updater.php
+-rw-r--r--    1 n14580dl   n14580dl         1830 Dec 29 04:47 upgrade-utils.php
+-rw-r--r--    1 n14580dl   n14580dl        23978 Dec 29 04:47 upgrades.php

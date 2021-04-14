@@ -1,0 +1,5 @@
+drwxr-xr-x    2 n14580dl   n14580dl          114 Mar  4 14:25 .
+drwxr-xr-x    7 n14580dl   n14580dl           82 Mar  4 14:25 ..
+-rw-r--r--    1 n14580dl   n14580dl         1514 Mar  4 14:25 HttpBasicAuthOptionProvider.php
+-rw-r--r--    1 n14580dl   n14580dl          907 Mar  4 14:25 OptionProviderInterface.php
+-rw-r--r--    1 n14580dl   n14580dl         1569 Mar  4 14:25 PostAuthOptionProvider.php

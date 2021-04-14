@@ -1,0 +1,8 @@
+drwxr-xr-x    2 n14580dl   n14580dl          169 Feb 10 07:04 .
+drwxr-xr-x   15 n14580dl   n14580dl         4096 Feb 10 07:04 ..
+-rw-r--r--    1 n14580dl   n14580dl          556 Feb 10 07:04 AnonymousSignature.php
+-rw-r--r--    1 n14580dl   n14580dl         1845 Feb 10 07:04 S3SignatureV4.php
+-rw-r--r--    1 n14580dl   n14580dl         1366 Feb 10 07:04 SignatureInterface.php
+-rw-r--r--    1 n14580dl   n14580dl         4458 Feb 10 07:04 SignatureProvider.php
+-rw-r--r--    1 n14580dl   n14580dl         1318 Feb 10 07:04 SignatureTrait.php
+-rw-r--r--    1 n14580dl   n14580dl        13980 Feb 10 07:04 SignatureV4.php

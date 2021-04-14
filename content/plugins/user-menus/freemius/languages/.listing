@@ -1,0 +1,17 @@
+drwxr-xr-x    2 n14580dl   n14580dl         4096 Dec 29 04:41 .
+drwxr-xr-x    6 n14580dl   n14580dl          197 Dec 29 04:41 ..
+-rw-r--r--    1 n14580dl   n14580dl        59930 Jan 19 09:19 freemius-cs_CZ.mo
+-rw-r--r--    1 n14580dl   n14580dl        58864 Jan 19 09:19 freemius-da_DK.mo
+-rw-r--r--    1 n14580dl   n14580dl        58177 Jan 19 09:19 freemius-en.mo
+-rw-r--r--    1 n14580dl   n14580dl        61970 Jan 19 09:19 freemius-es_ES.mo
+-rw-r--r--    1 n14580dl   n14580dl        62562 Jan 19 09:19 freemius-fr_FR.mo
+-rw-r--r--    1 n14580dl   n14580dl        61224 Jan 19 09:19 freemius-he_IL.mo
+-rw-r--r--    1 n14580dl   n14580dl        59307 Jan 19 09:19 freemius-hu_HU.mo
+-rw-r--r--    1 n14580dl   n14580dl        60682 Jan 19 09:19 freemius-it_IT.mo
+-rw-r--r--    1 n14580dl   n14580dl        66410 Jan 19 09:19 freemius-ja.mo
+-rw-r--r--    1 n14580dl   n14580dl        60674 Jan 19 09:19 freemius-nl_NL.mo
+-rw-r--r--    1 n14580dl   n14580dl        74731 Jan 19 09:19 freemius-ru_RU.mo
+-rw-r--r--    1 n14580dl   n14580dl        92468 Jan 19 09:19 freemius-ta.mo
+-rw-r--r--    1 n14580dl   n14580dl        55922 Jan 19 09:19 freemius-zh_CN.mo
+-rw-r--r--    1 n14580dl   n14580dl        70539 Jan 19 09:19 freemius.pot
+-rw-r--r--    1 n14580dl   n14580dl           87 Jan 19 09:19 index.php

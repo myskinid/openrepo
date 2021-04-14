@@ -1,0 +1,5 @@
+drwxr-xr-x    2 n14580dl   n14580dl          126 Mar  4 14:25 .
+drwxr-xr-x    4 n14580dl   n14580dl         4096 Mar  4 14:25 ..
+-rw-r--r--    1 n14580dl   n14580dl         1609 Mar  4 14:25 estimated-reading-time-conditional.php
+-rw-r--r--    1 n14580dl   n14580dl          739 Mar  4 14:25 post-conditional.php
+-rw-r--r--    1 n14580dl   n14580dl          489 Mar  4 14:25 posts-overview-or-ajax-conditional.php

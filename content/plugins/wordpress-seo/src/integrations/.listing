@@ -1,0 +1,17 @@
+drwxr-xr-x    8 n14580dl   n14580dl         4096 Mar  4 14:25 .
+drwxr-xr-x   27 n14580dl   n14580dl         4096 Mar  4 14:25 ..
+drwxr-xr-x    2 n14580dl   n14580dl         4096 Mar  4 14:25 admin
+drwxr-xr-x    2 n14580dl   n14580dl           44 Mar  4 14:25 alerts
+drwxr-xr-x    2 n14580dl   n14580dl          131 Mar  4 14:25 blocks
+-rw-r--r--    1 n14580dl   n14580dl         2048 Mar  4 14:25 breadcrumbs-integration.php
+-rw-r--r--    1 n14580dl   n14580dl          860 Mar  4 14:25 duplicate-post-integration.php
+-rw-r--r--    1 n14580dl   n14580dl         1111 Mar  4 14:25 estimated-reading-time.php
+-rw-r--r--    1 n14580dl   n14580dl         1130 Mar  4 14:25 exclude-oembed-cache-post-type.php
+drwxr-xr-x    2 n14580dl   n14580dl          325 Mar  4 14:25 front-end
+-rw-r--r--    1 n14580dl   n14580dl        12019 Mar  4 14:25 front-end-integration.php
+-rw-r--r--    1 n14580dl   n14580dl          426 Mar  4 14:25 integration-interface.php
+-rw-r--r--    1 n14580dl   n14580dl         1986 Mar  4 14:25 primary-category.php
+-rw-r--r--    1 n14580dl   n14580dl         3211 Mar  4 14:25 schema-blocks.php
+drwxr-xr-x    2 n14580dl   n14580dl          308 Mar  4 14:25 third-party
+drwxr-xr-x    2 n14580dl   n14580dl         4096 Mar  4 14:25 watchers
+-rw-r--r--    1 n14580dl   n14580dl         1111 Mar  4 14:25 xmlrpc.php

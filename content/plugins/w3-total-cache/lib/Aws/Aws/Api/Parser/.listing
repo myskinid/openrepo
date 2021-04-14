@@ -1,0 +1,15 @@
+drwxr-xr-x    3 n14580dl   n14580dl         4096 Feb 10 07:04 .
+drwxr-xr-x    5 n14580dl   n14580dl         4096 Feb 10 07:04 ..
+-rw-r--r--    1 n14580dl   n14580dl         1006 Feb 10 07:04 AbstractParser.php
+-rw-r--r--    1 n14580dl   n14580dl         5257 Feb 10 07:04 AbstractRestParser.php
+-rw-r--r--    1 n14580dl   n14580dl         1509 Feb 10 07:04 Crc32ValidatingParser.php
+-rw-r--r--    1 n14580dl   n14580dl         8809 Feb 10 07:04 DecodingEventStreamIterator.php
+-rw-r--r--    1 n14580dl   n14580dl         2956 Feb 10 07:04 EventParsingIterator.php
+drwxr-xr-x    2 n14580dl   n14580dl           33 Feb 10 07:04 Exception
+-rw-r--r--    1 n14580dl   n14580dl         1873 Feb 10 07:04 JsonParser.php
+-rw-r--r--    1 n14580dl   n14580dl         1321 Feb 10 07:04 JsonRpcParser.php
+-rw-r--r--    1 n14580dl   n14580dl         1473 Feb 10 07:04 PayloadParserTrait.php
+-rw-r--r--    1 n14580dl   n14580dl         1769 Feb 10 07:04 QueryParser.php
+-rw-r--r--    1 n14580dl   n14580dl         1246 Feb 10 07:04 RestJsonParser.php
+-rw-r--r--    1 n14580dl   n14580dl         1083 Feb 10 07:04 RestXmlParser.php
+-rw-r--r--    1 n14580dl   n14580dl         3634 Feb 10 07:04 XmlParser.php

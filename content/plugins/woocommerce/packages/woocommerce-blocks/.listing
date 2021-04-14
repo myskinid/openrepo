@@ -1,0 +1,9 @@
+drwxr-xr-x    7 n14580dl   n14580dl          141 Jan 20 06:10 .
+drwxr-xr-x    5 n14580dl   n14580dl           81 Jan 20 06:10 ..
+drwxr-xr-x    5 n14580dl   n14580dl           38 Jan 20 06:10 assets
+drwxr-xr-x    4 n14580dl   n14580dl         4096 Jan 20 06:10 build
+-rw-r--r--    1 n14580dl   n14580dl        43987 Jan 20 06:10 readme.txt
+drwxr-xr-x    9 n14580dl   n14580dl          209 Jan 20 06:10 src
+drwxr-xr-x    3 n14580dl   n14580dl           20 Jan 20 06:10 templates
+drwxr-xr-x    5 n14580dl   n14580dl          115 Jan 20 06:10 vendor
+-rw-r--r--    1 n14580dl   n14580dl         9036 Jan 20 06:10 woocommerce-gutenberg-products-block.php

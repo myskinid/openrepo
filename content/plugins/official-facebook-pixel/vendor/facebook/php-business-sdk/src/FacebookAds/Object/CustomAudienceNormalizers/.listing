@@ -1,0 +1,17 @@
+drwxr-xr-x    2 n14580dl   n14580dl         4096 Jan 20 05:57 .
+drwxr-xr-x    8 n14580dl   n14580dl        20480 Jan 20 05:57 ..
+-rw-r--r--    1 n14580dl   n14580dl         1788 Jan 19 09:18 BirthYearNormalizer.php
+-rw-r--r--    1 n14580dl   n14580dl         1795 Jan 19 09:18 CityNormalizer.php
+-rw-r--r--    1 n14580dl   n14580dl         1834 Jan 19 09:18 CountryNormalizer.php
+-rw-r--r--    1 n14580dl   n14580dl         1920 Jan 19 09:18 DateNormalizer.php
+-rw-r--r--    1 n14580dl   n14580dl         1785 Jan 19 09:18 EmailNormalizer.php
+-rw-r--r--    1 n14580dl   n14580dl         1843 Jan 19 09:18 FirstNameInitialNormalizer.php
+-rw-r--r--    1 n14580dl   n14580dl         1806 Jan 19 09:18 FirstNameNormalizer.php
+-rw-r--r--    1 n14580dl   n14580dl         1765 Jan 19 09:18 GenderNormalizer.php
+-rw-r--r--    1 n14580dl   n14580dl         1900 Jan 19 09:18 HashNormalizer.php
+-rw-r--r--    1 n14580dl   n14580dl         1804 Jan 19 09:18 LastNameNormalizer.php
+-rw-r--r--    1 n14580dl   n14580dl         1767 Jan 19 09:18 MadidNormalizer.php
+-rw-r--r--    1 n14580dl   n14580dl         1785 Jan 19 09:18 PhoneNormalizer.php
+-rw-r--r--    1 n14580dl   n14580dl         1797 Jan 19 09:18 StateNormalizer.php
+-rw-r--r--    1 n14580dl   n14580dl         1476 Jan 19 09:18 ValueNormalizerInterface.php
+-rw-r--r--    1 n14580dl   n14580dl         1820 Jan 19 09:18 ZipNormalizer.php

@@ -1,0 +1,15 @@
+drwxr-xr-x   11 n14580dl   n14580dl          217 Jan 20 06:10 .
+drwxr-xr-x   41 n14580dl   n14580dl         4096 Mar  5 14:31 ..
+drwxr-xr-x    6 n14580dl   n14580dl           54 Jan 20 06:10 assets
+drwxr-xr-x    3 n14580dl   n14580dl          124 Jan 20 06:10 i18n
+drwxr-xr-x   27 n14580dl   n14580dl         8192 Jan 20 06:10 includes
+drwxr-xr-x    3 n14580dl   n14580dl           22 Jan 20 06:10 lib
+-rw-r--r--    1 n14580dl   n14580dl        36318 Jan 20 06:10 license.txt
+drwxr-xr-x    5 n14580dl   n14580dl           81 Jan 20 06:10 packages
+-rw-r--r--    1 n14580dl   n14580dl        18791 Jan 20 06:10 readme.txt
+drwxr-xr-x    2 n14580dl   n14580dl           88 Jan 20 06:10 sample-data
+drwxr-xr-x    9 n14580dl   n14580dl          174 Jan 20 06:10 src
+drwxr-xr-x   12 n14580dl   n14580dl         4096 Jan 20 06:10 templates
+-rw-r--r--    1 n14580dl   n14580dl         4377 Jan 20 06:10 uninstall.php
+drwxr-xr-x   11 n14580dl   n14580dl          203 Jan 20 06:10 vendor
+-rw-r--r--    1 n14580dl   n14580dl         1665 Jan 20 06:10 woocommerce.php

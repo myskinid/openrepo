@@ -1,0 +1,9 @@
+drwxr-xr-x    2 n14580dl   n14580dl          209 Jan 20 05:57 .
+drwxr-xr-x    3 n14580dl   n14580dl           90 Jan 20 05:57 ..
+-rw-r--r--    1 n14580dl   n14580dl         6910 Jan 19 09:18 MessageInterface.php
+-rw-r--r--    1 n14580dl   n14580dl         4814 Jan 19 09:18 RequestInterface.php
+-rw-r--r--    1 n14580dl   n14580dl         2591 Jan 19 09:18 ResponseInterface.php
+-rw-r--r--    1 n14580dl   n14580dl        10098 Jan 19 09:18 ServerRequestInterface.php
+-rw-r--r--    1 n14580dl   n14580dl         4746 Jan 19 09:18 StreamInterface.php
+-rw-r--r--    1 n14580dl   n14580dl         4689 Jan 19 09:18 UploadedFileInterface.php
+-rw-r--r--    1 n14580dl   n14580dl        12607 Jan 19 09:18 UriInterface.php

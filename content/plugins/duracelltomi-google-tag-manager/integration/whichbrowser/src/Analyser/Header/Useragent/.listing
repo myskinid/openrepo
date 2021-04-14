@@ -1,0 +1,10 @@
+drwxr-xr-x    3 n14580dl   n14580dl          144 Nov 30 03:30 .
+drwxr-xr-x    3 n14580dl   n14580dl          184 Nov 30 03:30 ..
+-rw-r--r--    1 n14580dl   n14580dl        20326 Nov 30 03:30 Application.php
+-rw-r--r--    1 n14580dl   n14580dl         1314 Nov 30 03:30 Bot.php
+-rw-r--r--    1 n14580dl   n14580dl       100792 Nov 30 03:30 Browser.php
+drwxr-xr-x    2 n14580dl   n14580dl          240 Nov 30 03:30 Device
+-rw-r--r--    1 n14580dl   n14580dl          812 Nov 30 03:30 Device.php
+-rw-r--r--    1 n14580dl   n14580dl         5807 Nov 30 03:30 Engine.php
+-rw-r--r--    1 n14580dl   n14580dl       102410 Nov 30 03:30 Os.php
+-rw-r--r--    1 n14580dl   n14580dl         3406 Nov 30 03:30 Using.php
